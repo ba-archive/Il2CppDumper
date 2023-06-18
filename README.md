@@ -1,4 +1,6 @@
-# Il2CppDumper
+# Il2CppDumper Mod
+
+魔改版的Il2CppDumper，调整了入口使得程序可以以dll的形式被直接引用，无需生成可执行文件并命令行调用
 
 [![Build status](https://ci.appveyor.com/api/projects/status/anhqw33vcpmp8ofa?svg=true)](https://ci.appveyor.com/project/Perfare/il2cppdumper/branch/master/artifacts)
 
